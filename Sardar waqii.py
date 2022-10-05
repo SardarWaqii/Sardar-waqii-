@@ -60,8 +60,6 @@ ____Welcome____
 
 #### INSTALL TOOL ON TERMUX
 
-```python
-
  pkg update
 
  pkg upgrade
@@ -78,17 +76,18 @@ ____Welcome____
 
  pip install mechanize
 
- cd $HOME 
+ cd Sardar Waqii 
 
- rm -rf Sardar waqii
+ rm -rf Sardar Waqii
 
  git clone https://github.com/Sardar-Waqii/SSB
-
+ 
+Python Sardar Waqii.py
 ```
 
 #### RUN SCRIPT
 
-```python
+```update
 
  cd Sardar Waqii
 
